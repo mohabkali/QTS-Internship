@@ -1,11 +1,13 @@
-﻿Console.WriteLine("Please enter a number:");
+﻿using System;
+
+Console.WriteLine("Please enter a number:");
 string input = Console.ReadLine();
-if (int.tryParse(input, out num) && num > 0)
+if (int.TryParse(input, out int numb) && numb > 0)
 {
-    Calculate.CalculateFactorial(num);
+    Calculate.CalculateFactorial(numb);
 }
 else {
-    Console.WriteLine("Please enter a valid numbber")
+    Console.WriteLine("Please enter a valid numbber");
 }
 
 
@@ -16,16 +18,18 @@ public class Calculate
         long factorial = 1;
         if (number > 20)
         {
-            Console.WriteLine("Number is too Large to Compute")
+            Console.WriteLine("Number is too Large to Compute");
             return -1;
         }
-    }
-        else{
-            for (int i =1; i <= number; i+ ){
+        else
+        {
+            for (int i = 1; i <= number; i++)
+            {
                 factorial *= i;
-                return factorial;
             }
-        Console.WriteLine("Factorial is " + factorial);
+            Console.WriteLine($"Factorial for {number} is {factorial}");
+            return factorial;
+
         }
     }
-
+}

@@ -1,18 +1,22 @@
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.deps.json
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.runtimeconfig.json
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.dll
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.pdb
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.GeneratedMSBuildEditorConfig.editorconfig
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.AssemblyInfoInputs.cache
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.AssemblyInfo.cs
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.csproj.CoreCompileInputs.cache
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.sourcelink.json
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.dll
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/refint/CalculateFactorial.dll
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.pdb
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.genruntimeconfig.cache
-/Users/mohabali/Documents/GitHub/QTS-Internship/CalculateFactorial/obj/Debug/net9.0/ref/CalculateFactorial.dll
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.AssemblyInfo.cs
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial
+/Users/mohabali/Desktop/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.deps.json
+/Users/mohabali/Desktop/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.runtimeconfig.json
+/Users/mohabali/Desktop/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.dll
+/Users/mohabali/Desktop/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.pdb
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.dll
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/refint/CalculateFactorial.dll
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.pdb
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.genruntimeconfig.cache
+/Users/mohabali/Desktop/CalculateFactorial/obj/Debug/net9.0/ref/CalculateFactorial.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.deps.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.runtimeconfig.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/bin/Debug/net9.0/CalculateFactorial.pdb
 /Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.AssemblyInfoInputs.cache
 /Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.AssemblyInfo.cs
@@ -21,3 +25,5 @@
 /Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.dll
 /Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/obj/Debug/net9.0/refint/CalculateFactorial.dll
 /Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.pdb
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/obj/Debug/net9.0/CalculateFactorial.genruntimeconfig.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateFactorial/obj/Debug/net9.0/ref/CalculateFactorial.dll
