@@ -1,14 +1,29 @@
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\bin\Debug\net9.0\StudentGradeCalc.exe
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\bin\Debug\net9.0\StudentGradeCalc.deps.json
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\bin\Debug\net9.0\StudentGradeCalc.runtimeconfig.json
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\bin\Debug\net9.0\StudentGradeCalc.dll
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\bin\Debug\net9.0\StudentGradeCalc.pdb
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\StudentGradeCalc.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\StudentGradeCalc.AssemblyInfoInputs.cache
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\StudentGradeCalc.AssemblyInfo.cs
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\StudentGradeCalc.csproj.CoreCompileInputs.cache
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\StudentGradeCalc.dll
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\refint\StudentGradeCalc.dll
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\StudentGradeCalc.pdb
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\StudentGradeCalc.genruntimeconfig.cache
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\StudentGradeCalc\obj\Debug\net9.0\ref\StudentGradeCalc.dll
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.exe
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.deps.json
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.runtimeconfig.json
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.dll
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.pdb
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.AssemblyInfoInputs.cache
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.AssemblyInfo.cs
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.csproj.CoreCompileInputs.cache
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.dll
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/refint/StudentGradeCalc.dll
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.pdb
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.genruntimeconfig.cache
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/ref/StudentGradeCalc.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.deps.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.runtimeconfig.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/bin/Debug/net9.0/StudentGradeCalc.pdb
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.AssemblyInfoInputs.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.AssemblyInfo.cs
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.csproj.CoreCompileInputs.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.sourcelink.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/refint/StudentGradeCalc.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.pdb
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/StudentGradeCalc.genruntimeconfig.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/Debug/net9.0/ref/StudentGradeCalc.dll

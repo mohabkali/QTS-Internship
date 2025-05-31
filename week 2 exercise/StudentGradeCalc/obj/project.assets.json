@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Khalid Abdelaziz\\.nuget\\packages\\": {}
+    "/Users/mohabali/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khalid Abdelaziz\\Desktop\\QTS Internship\\week 2 exercise\\StudentGradeCalc\\StudentGradeCalc.csproj",
+      "projectUniqueName": "/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/StudentGradeCalc.csproj",
       "projectName": "StudentGradeCalc",
-      "projectPath": "C:\\Users\\Khalid Abdelaziz\\Desktop\\QTS Internship\\week 2 exercise\\StudentGradeCalc\\StudentGradeCalc.csproj",
-      "packagesPath": "C:\\Users\\Khalid Abdelaziz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khalid Abdelaziz\\Desktop\\QTS Internship\\week 2 exercise\\StudentGradeCalc\\obj\\",
+      "projectPath": "/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/StudentGradeCalc.csproj",
+      "packagesPath": "/Users/mohabali/.nuget/packages/",
+      "outputPath": "/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/StudentGradeCalc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Khalid Abdelaziz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/mohabali/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

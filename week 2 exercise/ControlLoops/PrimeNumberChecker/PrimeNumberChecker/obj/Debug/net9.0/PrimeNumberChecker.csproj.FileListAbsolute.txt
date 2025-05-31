@@ -1,14 +1,29 @@
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.exe
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.deps.json
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.runtimeconfig.json
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.dll
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\bin\Debug\net9.0\PrimeNumberChecker.pdb
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.AssemblyInfoInputs.cache
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.AssemblyInfo.cs
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.csproj.CoreCompileInputs.cache
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.dll
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\refint\PrimeNumberChecker.dll
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.pdb
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\PrimeNumberChecker.genruntimeconfig.cache
-c:\Users\Khalid Abdelaziz\Desktop\QTS Internship\week 2 exercise\ControlLoops\PrimeNumberChecker\PrimeNumberChecker\obj\Debug\net9.0\ref\PrimeNumberChecker.dll
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.exe
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.deps.json
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.runtimeconfig.json
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.dll
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.pdb
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.AssemblyInfoInputs.cache
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.AssemblyInfo.cs
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.csproj.CoreCompileInputs.cache
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.dll
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/refint/PrimeNumberChecker.dll
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.pdb
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.genruntimeconfig.cache
+c:/Users/Khalid Abdelaziz/Desktop/QTS Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/ref/PrimeNumberChecker.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.deps.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.runtimeconfig.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/bin/Debug/net9.0/PrimeNumberChecker.pdb
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.AssemblyInfoInputs.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.AssemblyInfo.cs
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.csproj.CoreCompileInputs.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.sourcelink.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/refint/PrimeNumberChecker.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.pdb
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/PrimeNumberChecker.genruntimeconfig.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/ControlLoops/PrimeNumberChecker/PrimeNumberChecker/obj/Debug/net9.0/ref/PrimeNumberChecker.dll
