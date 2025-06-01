@@ -1,0 +1,29 @@
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage.deps.json
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage.runtimeconfig.json
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage.dll
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage.pdb
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.AssemblyInfo.cs
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.dll
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/refint/CalculateAverage.dll
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.pdb
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.genruntimeconfig.cache
+/Users/mohabali/Desktop/CalculateAverage/CalculateAverage/obj/Debug/net9.0/ref/CalculateAverage.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage.deps.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage.runtimeconfig.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/bin/Debug/net9.0/CalculateAverage.pdb
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.AssemblyInfoInputs.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.AssemblyInfo.cs
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.csproj.CoreCompileInputs.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.sourcelink.json
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/refint/CalculateAverage.dll
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.pdb
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/CalculateAverage.genruntimeconfig.cache
+/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/CalculateAverage/CalculateAverage/obj/Debug/net9.0/ref/CalculateAverage.dll

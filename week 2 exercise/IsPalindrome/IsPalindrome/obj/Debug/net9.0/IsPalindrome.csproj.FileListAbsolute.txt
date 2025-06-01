@@ -1,0 +1,14 @@
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/bin/Debug/net9.0/IsPalindrome
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/bin/Debug/net9.0/IsPalindrome.deps.json
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/bin/Debug/net9.0/IsPalindrome.runtimeconfig.json
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/bin/Debug/net9.0/IsPalindrome.dll
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/bin/Debug/net9.0/IsPalindrome.pdb
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/IsPalindrome.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/IsPalindrome.AssemblyInfo.cs
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/IsPalindrome.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/IsPalindrome.dll
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/refint/IsPalindrome.dll
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/IsPalindrome.pdb
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/IsPalindrome.genruntimeconfig.cache
+/Users/mohabali/Desktop/IsPalindrome/IsPalindrome/obj/Debug/net9.0/ref/IsPalindrome.dll

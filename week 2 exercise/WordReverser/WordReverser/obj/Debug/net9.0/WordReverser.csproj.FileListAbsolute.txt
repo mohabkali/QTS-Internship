@@ -1,0 +1,14 @@
+/Users/mohabali/Desktop/WordReverser/WordReverser/bin/Debug/net9.0/WordReverser
+/Users/mohabali/Desktop/WordReverser/WordReverser/bin/Debug/net9.0/WordReverser.deps.json
+/Users/mohabali/Desktop/WordReverser/WordReverser/bin/Debug/net9.0/WordReverser.runtimeconfig.json
+/Users/mohabali/Desktop/WordReverser/WordReverser/bin/Debug/net9.0/WordReverser.dll
+/Users/mohabali/Desktop/WordReverser/WordReverser/bin/Debug/net9.0/WordReverser.pdb
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/WordReverser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/WordReverser.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/WordReverser.AssemblyInfo.cs
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/WordReverser.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/WordReverser.dll
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/refint/WordReverser.dll
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/WordReverser.pdb
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/WordReverser.genruntimeconfig.cache
+/Users/mohabali/Desktop/WordReverser/WordReverser/obj/Debug/net9.0/ref/WordReverser.dll

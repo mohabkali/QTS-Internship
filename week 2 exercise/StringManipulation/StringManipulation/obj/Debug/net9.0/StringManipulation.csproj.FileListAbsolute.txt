@@ -1,0 +1,14 @@
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/bin/Debug/net9.0/StringManipulation
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/bin/Debug/net9.0/StringManipulation.deps.json
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/bin/Debug/net9.0/StringManipulation.runtimeconfig.json
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/bin/Debug/net9.0/StringManipulation.dll
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/bin/Debug/net9.0/StringManipulation.pdb
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/StringManipulation.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/StringManipulation.AssemblyInfo.cs
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/StringManipulation.dll
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/refint/StringManipulation.dll
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/StringManipulation.pdb
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/StringManipulation.genruntimeconfig.cache
+/Users/mohabali/Desktop/StringManipulation/StringManipulation/obj/Debug/net9.0/ref/StringManipulation.dll

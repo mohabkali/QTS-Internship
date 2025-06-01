@@ -1,0 +1,14 @@
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/bin/Debug/net9.0/ArrayManipulation
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/bin/Debug/net9.0/ArrayManipulation.deps.json
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/bin/Debug/net9.0/ArrayManipulation.runtimeconfig.json
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/bin/Debug/net9.0/ArrayManipulation.dll
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/bin/Debug/net9.0/ArrayManipulation.pdb
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/ArrayManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/ArrayManipulation.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/ArrayManipulation.AssemblyInfo.cs
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/ArrayManipulation.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/ArrayManipulation.dll
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/refint/ArrayManipulation.dll
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/ArrayManipulation.pdb
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/ArrayManipulation.genruntimeconfig.cache
+/Users/mohabali/Desktop/ArrayManipulation/ArrayManipulation/obj/Debug/net9.0/ref/ArrayManipulation.dll
