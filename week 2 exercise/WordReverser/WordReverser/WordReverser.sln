@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordReverser", "WordReverser.csproj", "{3B47E023-0127-228A-9EDB-E33EA8B362BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B47E023-0127-228A-9EDB-E33EA8B362BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B47E023-0127-228A-9EDB-E33EA8B362BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B47E023-0127-228A-9EDB-E33EA8B362BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B47E023-0127-228A-9EDB-E33EA8B362BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {752AAF0D-1AC8-477A-857F-D61E2367DEF7}
+	EndGlobalSection
+EndGlobal

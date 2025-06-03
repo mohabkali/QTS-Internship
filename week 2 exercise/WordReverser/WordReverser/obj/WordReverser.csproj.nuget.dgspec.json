@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohabali/Desktop/WordReverser/WordReverser/WordReverser.csproj": {}
+    "/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/WordReverser/WordReverser/WordReverser.csproj": {}
   },
   "projects": {
-    "/Users/mohabali/Desktop/WordReverser/WordReverser/WordReverser.csproj": {
+    "/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/WordReverser/WordReverser/WordReverser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohabali/Desktop/WordReverser/WordReverser/WordReverser.csproj",
+        "projectUniqueName": "/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/WordReverser/WordReverser/WordReverser.csproj",
         "projectName": "WordReverser",
-        "projectPath": "/Users/mohabali/Desktop/WordReverser/WordReverser/WordReverser.csproj",
+        "projectPath": "/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/WordReverser/WordReverser/WordReverser.csproj",
         "packagesPath": "/Users/mohabali/.nuget/packages/",
-        "outputPath": "/Users/mohabali/Desktop/WordReverser/WordReverser/obj/",
+        "outputPath": "/Users/mohabali/Documents/GitHub/QTS-Internship/week 2 exercise/WordReverser/WordReverser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohabali/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
