@@ -1,0 +1,14 @@
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter.deps.json
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter.runtimeconfig.json
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter.dll
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/bin/Debug/net9.0/TemperatureConverter.pdb
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.AssemblyInfo.cs
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.dll
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/refint/TemperatureConverter.dll
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.pdb
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/TemperatureConverter.genruntimeconfig.cache
+/Users/mohabali/Desktop/Week 3/TemperatureConverter/TemperatureConverter/obj/Debug/net9.0/ref/TemperatureConverter.dll

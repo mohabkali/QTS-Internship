@@ -1,0 +1,14 @@
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/bin/Debug/net9.0/Week 3
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/bin/Debug/net9.0/Week 3.deps.json
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/bin/Debug/net9.0/Week 3.runtimeconfig.json
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/bin/Debug/net9.0/Week 3.dll
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/bin/Debug/net9.0/Week 3.pdb
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/Week 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/Week 3.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/Week 3.AssemblyInfo.cs
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/Week 3.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/Week 3.dll
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/refint/Week 3.dll
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/Week 3.pdb
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/Week 3.genruntimeconfig.cache
+/Users/mohabali/Desktop/Week 3/ClassAnatomy/obj/Debug/net9.0/ref/Week 3.dll

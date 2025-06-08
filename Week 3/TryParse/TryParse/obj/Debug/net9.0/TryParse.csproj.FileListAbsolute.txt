@@ -1,0 +1,14 @@
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/bin/Debug/net9.0/TryParse
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/bin/Debug/net9.0/TryParse.deps.json
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/bin/Debug/net9.0/TryParse.runtimeconfig.json
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/bin/Debug/net9.0/TryParse.dll
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/bin/Debug/net9.0/TryParse.pdb
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/TryParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/TryParse.AssemblyInfoInputs.cache
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/TryParse.AssemblyInfo.cs
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/TryParse.csproj.CoreCompileInputs.cache
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/TryParse.dll
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/refint/TryParse.dll
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/TryParse.pdb
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/TryParse.genruntimeconfig.cache
+/Users/mohabali/Desktop/Week 3/TryParse/TryParse/obj/Debug/net9.0/ref/TryParse.dll
